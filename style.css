@@ -72,3 +72,20 @@ h3.card-title {
 .body {
     border: 4px solid blue;
 }
+
+.pp {
+    text-align: center;
+    margin-top: 39px;
+    border-radius: 17px;
+    box-shadow: lightblue 1px 1px 10px;
+}
+.three {
+    padding: 10px 15px;
+    box-shadow: lightblue 5px 5px 10px;
+    text-align: center;
+    border-radius: 10px;
+    margin: 30px;
+}
+footer {
+    text-align: center;
+}
